@@ -13,11 +13,13 @@ In this step-by-step guide, you’ll learn how to build a robust serverless AI c
 👉 The generated response is returned through AWS Lambda and Amazon API Gateway back to the user.
 
 🛠 <strong>Tech Stack</strong><br>
+<ul>
 
-• Amazon Bedrock (Titan Text G1 – Express)
-• AWS Lambda
-• Amazon API Gateway
-• Amazon S3 (Static Website Hosting)
-• JavaScript, HTML, and CSS
+<li> Amazon Bedrock (Titan Text G1 – Express)</li>
+<li> AWS Lambda</li>
+ <li>Amazon API Gateway</li>
+ <li>Amazon S3 (Static Website Hosting)</li>
+ <li>JavaScript, HTML, and CSS</li>
+</ul>
 
 If you want, I can also turn this into a simple architecture diagram description, README.md section, or slide-friendly version.
